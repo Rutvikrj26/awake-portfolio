@@ -1,6 +1,6 @@
 <template>
   <div>
-    <form
+    <form data-netlify="true"
       target="_blank"
       method="post"
       :action="formAction"

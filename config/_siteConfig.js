@@ -74,7 +74,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://rutvik-solanki.us10.list-manage.com/subscribe/post?u=33e4b00710c5857ba8afaa797&amp;id=5a24afdbc3'
     },
     custom: {
       on: false,
