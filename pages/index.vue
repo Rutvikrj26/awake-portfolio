@@ -11,12 +11,14 @@
         Nothing here
       </template>
     </main-section>
+    <news-letter-form-modal />
   </div>
 </template>
 
 <script>
 import { mapState } from 'vuex'
 import { setPageData } from '../helper'
+import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 
 export default {
   name: 'HomePage',
@@ -26,6 +28,7 @@ export default {
     }
   },
   components: {
+    NewsLetterFormModal
   },
   computed: {
     ...mapState(['title', 'subtitle', 'featureImage'])
