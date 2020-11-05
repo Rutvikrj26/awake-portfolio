@@ -9,19 +9,15 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Rutvik Solanki - Personal Website',
-  tagline: 'A Budding Mechanical Engineer, talented in developing Computational Approaches and interested in Computer Securing and Swimming apart form regular studies',
+  siteName: 'Awake',
+  tagline: 'A Nuxt.js Theme for Netlify CMS',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GTM-NCN68XJ
+    id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
-    {
-      name: 'Home',
-      link: '/index'
-    },
     {
       name: 'About',
       link: '/about'
@@ -35,13 +31,13 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Linkedin',
-      link: 'https://www.linkedin.com/in/connectwithrutvik/',
+      name: 'Github Repo',
+      link: 'https://github.com/danielkellyio/awake-template',
       target: '_blank'
     },
     {
-      name: 'C.V',
-      link: 'https://drive.google.com/file/d/1i9aSa6NjYLf01rcmkAb7FEaGF_O9_yRf/view?usp=sharing',
+      name: 'Awake+ Premium',
+      link: 'https://awake-premium-lp.netlify.com/',
       target: '_blank'
     }
   ],
@@ -65,20 +61,20 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-rutvik-solanki' // 'blog-danielkelly-io'
+    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to my Newsletter',
+    heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
       on: true,
       formAction:
-        'https://chimpstatic.com/mcjs-connected/js/users/33e4b00710c5857ba8afaa797/0726527327f76a376cb7029d0.js'
+        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
     },
     custom: {
       on: false,
