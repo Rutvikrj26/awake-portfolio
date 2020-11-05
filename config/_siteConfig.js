@@ -15,7 +15,7 @@ export default {
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GTM-NCN68XJ
+    id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
     {
@@ -31,12 +31,12 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
+      name: 'Linkedin',
       link: 'https://www.linkedin.com/in/connectwithrutvik/',
       target: '_blank'
     },
     {
-      name: 'Awake+ Premium',
+      name: 'Resume',
       link: 'https://drive.google.com/file/d/1i9aSa6NjYLf01rcmkAb7FEaGF_O9_yRf/view?usp=sharing',
       target: '_blank'
     }
