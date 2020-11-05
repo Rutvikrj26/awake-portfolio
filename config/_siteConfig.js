@@ -9,13 +9,13 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Rutvik Solanki | Personal Website and Blog',
+  tagline: 'A research-oriented Mechanical Engineering student, interested in Fluid Dynamics and Computational Mechanics.',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    id: process.env.GTM-NCN68XJ
   },
   mainMenu: [
     {
@@ -32,12 +32,12 @@ export default {
     },
     {
       name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      link: 'https://www.linkedin.com/in/connectwithrutvik/',
       target: '_blank'
     },
     {
       name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      link: 'https://drive.google.com/file/d/1i9aSa6NjYLf01rcmkAb7FEaGF_O9_yRf/view?usp=sharing',
       target: '_blank'
     }
   ],
