@@ -28,15 +28,13 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    You can contact me for collaboration on projects or for contract based jobs please see my resume and projects.
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  I work on Fluid Dynamcis, Computational Mechancis in Mechanical Engineering. I also have expertise as a Full stack developer, especially for
+                  Django-based web apps. I am a budding pentester and have some knowledge in the field of ethicla pentesting. you cna contact me for project collaboration
+                  or paid work in any of these fields.
                 </p>
               </div>
             </article>

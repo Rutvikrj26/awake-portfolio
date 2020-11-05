@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Rutvik Solanki - Personal Website',
+  tagline: 'A Budding Mechanical Engineer, talented in developing Computational Approaches and interested in Computer Securing and Swimming apart form regular studies',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -31,18 +31,18 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'Linkedin',
+      link: 'https://www.linkedin.com/in/connectwithrutvik/',
       target: '_blank'
     },
     {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: 'Resume',
+      link: 'https://drive.google.com/file/d/1i9aSa6NjYLf01rcmkAb7FEaGF_O9_yRf/view?usp=sharing',
       target: '_blank'
     }
   ],
   hero: {
-    theme: 'dark' // options: mist, light, dark
+    theme: 'light' // options: mist, light, dark
   },
 
   // Main Layout/Style
@@ -61,20 +61,20 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'blog-rutvik-solanki' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to Our Newsletter',
+    heading: 'Subscribe to my Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://chimpstatic.com/mcjs-connected/js/users/33e4b00710c5857ba8afaa797/0726527327f76a376cb7029d0.js'
     },
     custom: {
       on: false,
