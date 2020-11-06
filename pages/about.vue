@@ -1,44 +1,42 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
+      title="A bit of my hostory and my Future goals"
+      subtitle="These are just facts, to know me better, go through my journey in my blog entries"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Schooling</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              I completed my schooling from Seventh-Day-Adventist Higher Secondary School, starting from a failure in std. 3, ending as a School Topper when  I completed in highschool
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Heyy, I'm not a nerd if you think so after the last satement. I was an overall achiever, proof, I was the champion in the inter-zonal Swimming Competition, with maximum number of 
+            Gold medals(Gold in all the competitions). Though, I was an excellent swimmer, but am even more of a physicist. I was a state topper(top 1%) and selected for national campaigns 
+            held by International Association of Physics Teacher.
           </p>
 
-          <h3>Another Fake Heading</h3>
+        <p>
+          Physics was love, but maths was her father. So, as usual, I had a good bonding with mathematics and as a result developed excellent mathematical solving aptitude.
+          I was always promoted to think critically before acting by my parents.<strong>I am and will always remain indebted to my parents for the rich upbringing provided by them.</strong>
+          This skill helped me sove several daily problems creatively, and of course, I was easily scoring good at the school exams(always was good with memory ;).
+          Not bragging, but I literally ranked 2600 from 1.2 million students. I got admitted to the Best Mechanical Engineering College in India. 
+        </p>
+
+          <h3>College - Part 1 - Undergraduate</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Mechanical Engineering was an obvious choice, given my love for application-based physics. I had a break-up as the courses started becoming all theory and bored me to death.
+            But then, in the third semester, the courses again became application based. I started enjoying them and then, I finally went on my first date with the subject - my first research Project.
+            that was an out of the world experience. So, I'll be proposing soon. 
           </p>
           <quote-card />
-          <h3>Still More Fake Content</h3>
+          <h3>College - Part 2 - Postgraduate</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            <strong>Work-In-Progress</strong>
           </p>
         </div>
 
@@ -46,7 +44,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                My Hobbies/Interests/Fetishes/Desires/.....
               </p>
               <p class="subtitle">
                 Sooo Cool

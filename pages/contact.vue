@@ -1,8 +1,8 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
+      title="Contact Me"
+      subtitle="Someone can message me too, anonymously, if you know what it means!"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -33,7 +33,7 @@
                 </p>
                 <p>
                   I work on Fluid Dynamcis, Computational Mechancis in Mechanical Engineering. I also have expertise as a Full stack developer, especially for
-                  Django-based web apps. I am a budding pentester and have some knowledge in the field of ethicla pentesting. you cna contact me for project collaboration
+                  Django-based web apps. I am a budding pentester and have some knowledge in the field of ethical pentesting. you can contact me for project collaboration
                   or paid work in any of these fields.
                 </p>
               </div>
