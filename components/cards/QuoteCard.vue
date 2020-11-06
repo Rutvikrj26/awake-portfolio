@@ -14,10 +14,10 @@
     </div>
     <footer class="card-footer">
       <div class="card-footer-item">
-        <span> Share on <a href="https://en.wikipedia.org/wiki/Swami_Vivekananda">Vivekananda</a> </span>
+        <span> who is <a href="https://en.wikipedia.org/wiki/Swami_Vivekananda">Vivekananda</a> </span>
       </div>
       <div class="card-footer-item">
-        <span> Share on <a href="http://vedicheritage.gov.in/">Knowledge of the Vedas</a></span>
+        <span> Get the <a href="http://vedicheritage.gov.in/">Knowledge of the Vedas</a></span>
       </div>
     </footer>
   </div>

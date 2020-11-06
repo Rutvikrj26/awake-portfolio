@@ -44,10 +44,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                My Hobbies/Interests/Fetishes/Desires/.....
+                stay tuned...
               </p>
               <p class="subtitle">
-                Sooo Cool
+                coming soon
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
@@ -57,10 +57,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                stay tuned...
               </p>
               <p class="subtitle">
-                Just as cool
+                coming soon
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
@@ -70,10 +70,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                stay tuned...
               </p>
               <p class="subtitle">
-                that is all
+                coming soon
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
