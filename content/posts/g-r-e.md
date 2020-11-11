@@ -9,7 +9,7 @@ featureImage: /uploads/contact-hero.jpg
 ---
 # To defeat your enemy, you must first know him, his weaknesses and his strength.
 
-### A personal recommendation: Go through the [official book](https://drive.google.com/file/d/14x2f7xACwpkdoGQ01D0s76rUcfrGMaQZ/view?usp=sharing) thoroughly, you'll get a lot of examples on the exam. 
+### A personal recommendation: Go through the [official book](https://drive.google.com/file/d/14x2f7xACwpkdoGQ01D0s76rUcfrGMaQZ/view?usp=sharing) thoroughly, you'll get a lot of examples on the exam.
 
 # Analytical Writing
 
@@ -55,3 +55,5 @@ An important part of performing well on the Argument task is **remembering what 
 * You are **not being asked to express your own views on the subject being discussed** (as you were in the Issue task).
 
 Instead, **you are being asked to evaluate the logical soundness of an argument of another writer and, in doing so, to demonstrate the critical thinking, perceptive reading and analytical writing skills** that university faculty consider important for success in graduate school.
+
+Get a **[quick look](https://drive.google.com/drive/folders/1hiWQfju_vCl0OAqmrhgQXi35xPPzGHmu?usp=sharing)** on test taking strategies and helpful habits in to follow during the exam
