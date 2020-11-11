@@ -1,5 +1,5 @@
 ---
-title: G.R.E
+title: G.R.E - Part 1
 subtitle: Analytical Writing portion
 category:
   - Graduate Admission Exams
