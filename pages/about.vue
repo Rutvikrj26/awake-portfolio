@@ -18,18 +18,20 @@
             </strong>
           </p>
           <h3>Undergraduate College</h3> 
+          <p>
             <strong> Indian Institute of Technology, Delhi - Department of Mechanical Engineering</strong>
-
+          </p>
+          
           <h3> Work Experience </h3>
             <strong> Reliance Industries Pvt. Ltd. - Jamnagar Branch, Manufacturing Division</strong>
 
           <h4>My Interests</h4>
           <p>
             I am primarily interested in working in the field of Fluid Dynamics, Computational Mechanics and Multi-scale Fluid Structure interactions.
-            I am also interested and actively have done several projects in the field of Web Development. I am currently working on learning Android App Development.
-            I primarily use and enjoy developing Data-driven sites using Python based Django Framework. I have several apps deployed on Heroku regarding the same.
+            I am also interested and have done several projects in the field of Web Development. I am currently working on learning Android App Development.
+            I enjoy developing Data-driven sites using Python based Django Framework. I have several web apps deployed on Heroku, exploring differnt aspects of Pyhton libraries, ranging from AI and Ml based Face Detection to State Management for Business WorkFlows and cloud based Business Management Solutions.
             I am also interested in computer architecture and am currently learning the system architecture developments independently.
-            For a brief description on my projects, you can see my resume or my linkedin profile. For detailed descriptions, I'll soon be posting the project journeys on my blog.
+            For a brief description on my Mechancial projects, you can see my resume or my linkedin profile. For detailed descriptions, I'll soon be posting all the project(both Core Mechanical and Web-Development) journeys on my blog.
             Blogging is something I have started sometime back and will take significant amount of time to update the blogs in all the categories.
           </p>
 
