@@ -11,6 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Rutvik Solanki | Personal Website and Blog',
   tagline: 'A research-oriented Mechanical Engineering student, interested in Fluid Dynamics and Computational Mechanics.',
+  tagline: 'Part time web-Developer with Python-based Data driven Websites, and a budding pentester',  
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -61,7 +62,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'www-rj-tech-ml' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
