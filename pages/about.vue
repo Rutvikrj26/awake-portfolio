@@ -1,8 +1,8 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="A bit of my history and my Future goals"
-      subtitle="These are just facts, to know me better, go through my journey in my blog entries"
+      title="A breif Intro"
+      subtitle="These are just facts, to know me better, go through my journey in my blog entries(W.I.P)"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
