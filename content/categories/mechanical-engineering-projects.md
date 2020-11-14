@@ -1,5 +1,5 @@
 ---
-name: Mechanical Engineering Projects
+name: Mechanical Engineering
 image: /uploads/mechanical-engineering.jfif
 description: >-
   **Mechanical engineering** is
