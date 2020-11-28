@@ -57,13 +57,8 @@ sans during their work and (iii) the tools used. These are discussed below.
 
 * The artisans did not have any back-rest while working. As shown in figure 30, they had to use a rope or cloth to tie their knees to-
   gether to enable them to sit stably in a crammed space for long hours. Consequently,they had a backache and other health problems.
-
-<!---->
-
 * The artisans also faced the problem of bruising/blistering of hands while spinning
   the rod of the mould.
 
 Due to the various problems faced by them, the artisans had to take frequent breaks
-leading to a reduction in productivity. Further work on development and modification was done by technicians of Rural Technology Development and Delivery. 
-
-### Modifications in Furnace Design
+leading to a reduction in productivity. Further work on development and modification was done by technicians of Rural Technology Development and Delivery. For prototype and Demo of newer and better-developed designs please contact [RUTAG, IIT Delhi](rutag.iitd.ac.in).
