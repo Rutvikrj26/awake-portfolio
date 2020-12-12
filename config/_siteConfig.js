@@ -26,7 +26,7 @@ export default {
       name: 'Portfolio',
       link: 'https://rutvik-solanki.ml',
       target: '_blank'
-    }
+    },
     {
       name: 'Contact',
       link: '/contact'
