@@ -35,7 +35,9 @@
             Blogging is something I have started sometime back and will take significant amount of time to update the blogs in all the categories.
           </p>
 
+          <strong> Please go through the <a href="https://rutvik-solanki.ml">portofio</a> to get a brief idea of my projects and my interests</strong>
           <strong>It is always Fun to talk to someone regarding my work or my area of interests. You can contact me through the form, or can mail me directly.</strong>
+
         </div>
 
 
