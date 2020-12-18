@@ -25,6 +25,17 @@ export default {
           content: this.$store.state.subtitle
         },
         {
+          hid: 'generic_tags',
+          name: 'generic_tags',
+          content: 'Rutvik Solanki, Blog, Mechanical, Engineering, Computer, Science, Web Developer, Pentester, Computational Mechanics, Fluid Dynamics, Indian Institute of Technology, Delhi, IITD, Ahmedabad, Freelancer, Applied Mechanics'
+        },
+        {
+          hid: 'categories',
+          name: 'categories',
+          content: this.$store.state.categories
+        },
+
+        {
           hid: 'og:description',
           property: 'og:description',
           content: this.$store.state.subtitle
