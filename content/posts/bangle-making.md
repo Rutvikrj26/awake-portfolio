@@ -43,8 +43,7 @@ As the spinning continues, the red-hot loop of semi-molten glass is pushed back 
 
 The artisans perceived several problems in using this process. These problems were
 
-categorized into three parts: problems related to (i) The furnace (ii) the posture of arti-
-sans during their work and (iii) the tools used. These are discussed below.
+categorized into three parts: problems related to (i) The furnace (ii) the posture of artisans during their work and (iii) the tools used. These are discussed below.
 
 (i) Problems related to the furnace
 
