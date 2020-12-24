@@ -8,12 +8,12 @@ author: Daniel Kelly
 date: 2020-11-28T13:53:01.431Z
 featureImage: /uploads/bangle-making-furnace.png
 ---
-Traditional craft of making joint-less green glass bangles is prevalent
+The traditional craft of making joint-less green glass bangles is prevalent
 in Unch village of the Nadbai block near Bharatpur, Rajasthan. RuTAG IIT
 Delhi interacted with the artisans engaged in this craft with the help of LUPIN
 foundation and identified problems with their furnace, seating posture during
-work and the tools they use. In this paper, the experience of developing solutions
-to these three problems has been discussed. A new furnace with commercial ceramic fibre insulation and a chimney-damper arrangement has solved the problem of hot and polluted working space and has also resulted in saving over 70% of the fuel they use in the furnace. Alternative seating arrangements proposed for the artisans were well-received by them. Modifications to their working tools also were appreciated by the artisans during the trials conducted. The furnace is in operation in the village. The other solutions need active promotion in the village before their effective adoption by artisans.
+work, and the tools they use. In this paper, the experience of developing solutions
+to these three problems has been discussed. A new furnace with commercial ceramic fiber insulation and a chimney-damper arrangement has solved the problem of hot and polluted working space and has also resulted in saving over 70% of the fuel they use in the furnace. Alternative seating arrangements proposed for the artisans were well-received by them. Modifications to their working tools also were appreciated by the artisans during the trials conducted. The furnace is in operation in the village. The other solutions need active promotion in the village before their effective adoption by artisans.
 
 ### Traditional Bangle Making Process
 
@@ -33,8 +33,7 @@ to create a small hole in the collected glass blob. Then the iron rod is shaken 
 this hole enlarges and the glass takes the shape of a small ring. This small ring is then
 transferred to the sizing mould (locally known as kalbhoot), which is rotated manually.
 
-As the spinning continues, the red-hot loop of semi-molten glass is pushed back to ex-
-pand along the cone to a ring of the desired diameter. This process takes place within 5-10 seconds, during which the glass cools down and solidifies, and a bangle is ready.
+As the spinning continues, the red-hot loop of semi-molten glass is pushed back to expand along the cone to a ring of the desired diameter. This process takes place within 5-10 seconds, during which the glass cools down and solidifies, and a bangle is ready.
 
 ![traditional-bangle-1](/uploads/bangle-traditional.png "Traditional Bangle 1")
 
@@ -56,7 +55,7 @@ sans during their work and (iii) the tools used. These are discussed below.
 (ii) Problems of uncomfortable ergonomic position: 
 
 * The artisans did not have any back-rest while working. As shown in figure 30, they had to use a rope or cloth to tie their knees to-
-  gether to enable them to sit stably in a crammed space for long hours. Consequently,they had a backache and other health problems.
+  gether to enable them to sit stably in a crammed space for long hours. Consequently, they had backache and other health problems.
 * The artisans also faced the problem of bruising/blistering of hands while spinning
   the rod of the mould.
 
