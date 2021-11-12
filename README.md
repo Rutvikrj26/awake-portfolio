@@ -1,4 +1,4 @@
-##Portfolio Website made in Nuxt.js
+## Portfolio Website made in Nuxt.js
 
 # Features
 
